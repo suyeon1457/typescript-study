@@ -1,13 +1,11 @@
 {
-    "complierOptions": { 
-        "lib": ["es2015"],
-        "module": "commonjs",
-        "outDir": "dist",
-        "sourceMap": true,
-        "strict": true,
-        "target": "es2015",
-    },
-    "inclued": [
-        "src"
-    ]
+  "complierOptions": {
+    "lib": ["es2015"],
+    "module": "commonjs",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2015"
+  },
+  "inclued": ["src"]
 }
